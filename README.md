@@ -1,7 +1,9 @@
 component-source-sans
 =====================
 
-Sans serif font family for user interface environments - http://adobe-fonts.github.io/source-sans-pro
+Web-friendly sans serif font family for user interface environments - http://adobe-fonts.github.io/source-sans-pro
+
+Use with [Component.js](https://github.com/componentjs/component).
 
 ### Included Weights / Variants
 
